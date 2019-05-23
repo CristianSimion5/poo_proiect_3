@@ -1,0 +1,10 @@
+/.vs
+/.vscode
+/Visual Studio
+
+*.out
+
+*.exe
+*.o
+*.bin
+*.dll
